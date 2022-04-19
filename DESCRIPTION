@@ -1,0 +1,11 @@
+Package: regexcite
+Title: My First R Package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ioannis", "Mavrogiannis", , "ioannis.mavrogiannis@univ-rouen.fr", role = c("aut", "cre"))
+Description: Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier (# SPONSORED TO TYPE THIS).?! I hope this works...
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
